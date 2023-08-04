@@ -12,3 +12,6 @@ script that sets the permission to the file hello as follows:
 script that sets the permission to the file hello as follows:
 
 \nOwner: no permission at all\nGroup: no permission at all/nOther users: all the permissions
+script that sets the mode of the file hello to this:
+
+753
