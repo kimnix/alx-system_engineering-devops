@@ -5,7 +5,6 @@
 
 import requests
 def recurse(subreddit, hot_list=[], after="", count=0):
-    """list of all titles on all hot posts of a subreddit is returned."""
         """
     Recursively retrieves a list of titles of all hot posts
     on a given subreddit.
