@@ -19,3 +19,8 @@ def number_of_subscribers(subreddit):
     else:
         return 0
 
+
+print(number_of_subscribers("python"))  # Should return the number of subscribers in the 'python' subreddit
+print(number_of_subscribers("nonexistentsubreddit"))  # Should return 
+
+
